@@ -20,26 +20,17 @@ The notes in this repository cover a wide range of topics, including but not lim
 - Undecidability
 - NP-Completeness
 
-## How to USe and Links of PDF
 
-Feel free to explore the contents of this repository at your own pace. Whether you're looking for a quick reference on a specific topic or seeking in-depth explanations, you'll find a wealth of information to help you deepen your understanding of theoretical computer science.
+## Links of PDF
+<ul>
+  <li><a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/TOC%20Notes.pdf" target="_blank">TOC Notes by <b>Abishek Sharma</b></a></li>
+  <li><a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Abhishek%20Sharma.pdf" target="_blank">TOC Notes by <b>Abishek Sharma 2</b></a></li>
+  <li><a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Deepali.pdf" target="_blank">TOC Notes by <b>Deepali </b></a></li>
+  <li><a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Manoj.pdf" target="_blank">TOC Notes by <b>Manoj</b></a></li>
+  <li><a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Riya.pdf" target="_blank">TOC Notes by <b>Riya</b></a></li>
+  <li><a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Shakshi.pdf" target="_blank">TOC Notes by <b>Sakshi</b></a></li>
+</ul>
 
-- Browse through the folders to find notes on specific topics.
-- Each topic folder contains markdown files with explanations, examples, and sometimes exercises to reinforce your understanding.
-- You can also contribute to this repository by suggesting improvements, fixing errors, or adding new content.
-
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/TOC%20Notes.pdf" target="_blank">TOC Notes by <b>Abishek Sharma</b></a><br>
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Abhishek%20Sharma.pdf" target="_blank">TOC Notes by <b>Abishek Sharma 2</b></a><br>
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Deepali.pdf" target="_blank">TOC Notes by <b>Deepali </b></a><br>
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Manoj.pdf" target="_blank">TOC Notes by <b>Manoj</b></a><br>
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Riya.pdf" target="_blank">TOC Notes by <b>Riya</b></a><br>
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Shakshi.pdf" target="_blank">TOC Notes by <b>Sakshi</b></a><br>
-
-
-
-## Contributing
-
-Contributions to this repository are welcome! If you find errors, have suggestions for improvement, or want to add new content, please feel free to open an issue or submit a pull request. Together, we can make these notes even more comprehensive and valuable for the community.
 
 ## License
 
