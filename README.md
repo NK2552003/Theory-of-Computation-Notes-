@@ -1,4 +1,3 @@
-# Theory of Computation Notes
 
 Welcome to the Theory of Computation Notes repository! This repository contains comprehensive notes, explanations, and examples covering various topics in the field of theoretical computer science.
 
