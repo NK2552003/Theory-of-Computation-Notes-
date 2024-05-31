@@ -20,13 +20,18 @@ The notes in this repository cover a wide range of topics, including but not lim
 - Undecidability
 - NP-Completeness
 
-## How to Use
+## How to USe and Links of PDF
 
 Feel free to explore the contents of this repository at your own pace. Whether you're looking for a quick reference on a specific topic or seeking in-depth explanations, you'll find a wealth of information to help you deepen your understanding of theoretical computer science.
 
 - Browse through the folders to find notes on specific topics.
 - Each topic folder contains markdown files with explanations, examples, and sometimes exercises to reinforce your understanding.
 - You can also contribute to this repository by suggesting improvements, fixing errors, or adding new content.
+
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/TOC%20Notes.pdf" target="_blank">TOC Notes</a>
+
+
+
 
 ## Contributing
 
