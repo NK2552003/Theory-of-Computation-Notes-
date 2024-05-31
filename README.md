@@ -28,8 +28,12 @@ Feel free to explore the contents of this repository at your own pace. Whether y
 - Each topic folder contains markdown files with explanations, examples, and sometimes exercises to reinforce your understanding.
 - You can also contribute to this repository by suggesting improvements, fixing errors, or adding new content.
 
-<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/TOC%20Notes.pdf" target="_blank">TOC Notes</a>
-
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/TOC%20Notes.pdf" target="_blank">TOC Notes by <b>Abishek Sharma</b></a><br>
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Abhishek%20Sharma.pdf" target="_blank">TOC Notes by <b>Abishek Sharma 2</b></a><br>
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Deepali.pdf" target="_blank">TOC Notes by <b>Deepali </b></a><br>
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Manoj.pdf" target="_blank">TOC Notes by <b>Manoj</b></a><br>
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Riya.pdf" target="_blank">TOC Notes by <b>Riya</b></a><br>
+<a href="https://github.com/NK2552003/Theory-of-Computation-Notes-/blob/main/Theory%20of%20Computation%20Handwritten%20Notes%20by%20Shakshi.pdf" target="_blank">TOC Notes by <b>Sakshi</b></a><br>
 
 
 
